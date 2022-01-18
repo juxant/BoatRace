@@ -1,0 +1,17 @@
+{
+    "name": "BoatRace.UseCases",
+    "rootNamespace": "",
+    "references": [
+        "GUID:616dba999a019a040992d2be5646bde1",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
